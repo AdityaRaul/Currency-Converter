@@ -14,5 +14,6 @@
 -  **JavaScript: Utilized for handling API requests, updating the UI dynamically, and performing currency conversion logic.**
 
 # Currency Converter Demo
+https://github.com/user-attachments/assets/1dc263b2-d241-465a-93db-97083f45c3a8
 
 
