@@ -9,9 +9,9 @@ This project is a simple web-based currency converter built using HTML, CSS, and
   .
 # Technologies used:
 
--**HTML: Markup structure for the web page**.
--**CSS: Styling for a clean and responsive layout**.
--**JavaScript: Handles fetching data from an API and performing the currency conversion**
+- **HTML: Markup structure for the web page**.
+- **CSS: Styling for a clean and responsive layout**.
+-  **JavaScript: Handles fetching data from an API and performing the currency conversion**
 
 # Currency Converter Demo
 
