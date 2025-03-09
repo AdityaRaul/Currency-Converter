@@ -11,7 +11,7 @@
 
 - **HTML: Markup structure for the web page**.
 - **CSS: Styling for a clean and responsive layout**.
--  **JavaScript: Handles fetching data from an API and performing the currency conversion**
+-  **JavaScript: Utilized for handling API requests, updating the UI dynamically, and performing currency conversion logic.**
 
 # Currency Converter Demo
 
