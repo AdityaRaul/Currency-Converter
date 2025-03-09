@@ -3,7 +3,7 @@ This project is a simple web-based currency converter built using HTML, CSS, and
 # Features:
 
  **Features**:
--**Real-time currency conversion using live exchange rates**.
+- **Real-time currency conversion using live exchange rates**.
 - **User-friendly interface built with HTML and styled with CSS**.
 - **JavaScript handles the logic for fetching exchange rates and performing conversions**
   .
